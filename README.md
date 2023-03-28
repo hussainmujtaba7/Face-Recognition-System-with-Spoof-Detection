@@ -10,4 +10,4 @@ The final implementation involved putting all the modules together to create a f
 
 In conclusion, the project successfully implemented a facial recognition system for an attendance system that incorporated techniques such as face detection, feature extraction, and anti-spoofing. Although the system worked fine, there is still a lot of room for improvement, such as training the model on a more diverse dataset and for a longer time. Overall, the system was robust against face spoofing attacks but was limited in its ability to work with multiple faces simultaneously.
 
-
+![My Image](images/spoof.png)
